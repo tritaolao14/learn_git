@@ -1,11 +1,11 @@
 //example code 
 //practice git
 let a = 10
-if (a == 10){
+if (a == 9){
   console.log("Hello World");
   }
 else {
-  console.log("Good bye");
+  console.log("Goodbye World");
   }
 
   
