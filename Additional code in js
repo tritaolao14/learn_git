@@ -1,7 +1,7 @@
 //example code 
 //practice git
 let a = 10
-if (a == 9){
+if (a == 1){
   console.log("Hello World");
   }
 else {
